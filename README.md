@@ -1,19 +1,4 @@
-> **Update:**
->
-> This project started as an attempt to see how efficient it would be for CSS to be decompressed client side.
->
-> The answer: VERY.
->
-> However, to make this useful, new devtools need to be created to allow it to integrate with other tools.
->
-> Additionally, it's not reasonable to assume developers will be happy to write styles in JSON.
->
-> The most exciting part of these results is that this makes "declarative CSS" - where the developer themself
-> declares what is included in their stylesheet - a possibility.
->
-> As those objectives require a big reshuffle, this repo is being archived and work continues here:
-> 
-> #### [funk-css](https://github.com/tbjgolden/funk-css)
+> **Update:** Use Tailwind instead of this.
 
 ---
 
